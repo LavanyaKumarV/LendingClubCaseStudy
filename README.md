@@ -78,9 +78,8 @@ When a person applies for a loan, two types of decisions could be taken by the c
 
 
 ## Contact
-Created by [@LavanyaKumarV] - feel free to contact me!
-Veenugopal T
-
+Created by @LavanyaKumarV and Veenugopal T
+- feel free to contact us!
 
 <!-- Optional -->
 <!-- ## License -->
